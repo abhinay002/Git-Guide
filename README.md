@@ -39,6 +39,8 @@ Blogs
 
 4.https://lightkun-yagami.medium.com/passed-ec-councils-certified-ethical-hacker-practical-20634b6f0f2
 
+5.https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a
+
 
 
 
