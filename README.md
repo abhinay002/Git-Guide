@@ -37,6 +37,8 @@ Blogs
 
 3.https://nx7.me/posts/cehreview/
 
+4.https://lightkun-yagami.medium.com/passed-ec-councils-certified-ethical-hacker-practical-20634b6f0f2
+
 
 
 
