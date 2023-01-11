@@ -29,7 +29,7 @@ https://github.com/paulveillard/cybersecurity-red-team
 Red-Teaming-Toolkit
 https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
-Blogs
+                               Blogs
 
 1.https://vinayakagrawal95.medium.com/ceh-practical-exam-review-d364ecffefa3
 
@@ -40,6 +40,11 @@ Blogs
 4.https://lightkun-yagami.medium.com/passed-ec-councils-certified-ethical-hacker-practical-20634b6f0f2
 
 5.https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a
+
+
+                                 TOOLS
+
+NMAp : https://github.com/jasonniebauer/Nmap-Cheatsheet
 
 
 
