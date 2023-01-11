@@ -45,7 +45,6 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
                                  TOOLS
 
 NMAp : https://github.com/jasonniebauer/Nmap-Cheatsheet
-        
        https://www.stationx.net/nmap-cheat-sheet/
 
 
