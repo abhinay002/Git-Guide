@@ -1,4 +1,4 @@
-                            GIT GUIDES
+                                   GIT GUIDES
 
 OSCP 
 https://github.com/RihaMaheshwari/OSCP-Preparation-Material 
@@ -31,7 +31,11 @@ https://github.com/paulveillard/cybersecurity-red-team
 Red-Teaming-Toolkit
 https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
-                               Blogs
+                         OWASP 10  ---[Open Web Application Security Project]
+                           
+--> https://owasp.org/www-project-top-ten/
+
+                                       Blogs
 
 1.https://vinayakagrawal95.medium.com/ceh-practical-exam-review-d364ecffefa3
 
@@ -44,7 +48,7 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 5.https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a
 
 
-                                 TOOLS
+                                        TOOLS
 
  NMAp 
  
