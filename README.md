@@ -52,7 +52,7 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
 2.https://www.stationx.net/nmap-cheat-sheet/
 
-
+https://www.hackthebox.com/achievement/machine/910871/402
 
 
 
