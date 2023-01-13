@@ -50,7 +50,7 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
                                         TOOLS
 
- NMAp 
+ NMAp--->https://github.com/Ignitetechnologies/Nmap-For-Pentester
  
 1.https://github.com/jasonniebauer/Nmap-Cheatsheet
 
