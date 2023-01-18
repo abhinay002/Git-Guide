@@ -65,6 +65,12 @@ https://tryhackme.com/p/CyberKnight
 
 https://0xdf.gitlab.io/
 
+https://tryhackme.com/room/jokerctf
+
+https://tryhackme.com/room/attacktivedirectory
+
+https://tryhackme.com/room/jrsecanalystintrouxo
+
 
 sql-cheat
 https://www.mysqltutorial.org/mysql-cheat-sheet.aspx
