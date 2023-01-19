@@ -31,6 +31,11 @@ https://github.com/paulveillard/cybersecurity-red-team
 Red-Teaming-Toolkit--
 https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
+
+                              FREE VIDEO COURSES
+                              
+https://www.academy.attackiq.com/
+
                          OWASP 10  ---[Open Web Application Security Project]
                            
 --> https://owasp.org/www-project-top-ten/
