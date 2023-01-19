@@ -34,11 +34,16 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
 
                               FREE VIDEO COURSES
                               
-https://www.academy.attackiq.com/
+
+https://codered.eccouncil.org/course/network-defense-essentials?logged=true
 
 https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=true
 
 https://codered.eccouncil.org/course/digital-forensics-essentials?logged=true
+
+https://www.academy.attackiq.com/
+
+
 
                          OWASP 10  ---[Open Web Application Security Project]
                            
