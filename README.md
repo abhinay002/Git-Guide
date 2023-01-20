@@ -15,6 +15,9 @@ https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools
 security-study-plan-- 
 https://github.com/jassics/security-study-plan 
 
+incident-response--
+https://github.com/meirwah/awesome-incident-response
+
 Penetration-Testing--
 https://github.com/wtsxDev/Penetration-Testing 
 
@@ -30,6 +33,9 @@ https://github.com/paulveillard/cybersecurity-red-team
 
 Red-Teaming-Toolkit--
 https://github.com/infosecn1nja/Red-Teaming-Toolkit https://lnkd.in/d8dG9VkP
+
+DARK-WEB---
+https://github.com/danieldurnea/Dark-Web-Osint-Tools-
 
 
                               FREE VIDEO COURSES
@@ -61,6 +67,8 @@ https://www.academy.attackiq.com/
 
 5.https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a
 
+6.Penetration TesteR--- https://hubs.la/Q01yyN-z0 
+
 
                                         TOOLS
 
@@ -83,7 +91,9 @@ https://tryhackme.com/room/jokerctf
 
 https://tryhackme.com/room/attacktivedirectory
 
-https://tryhackme.com/room/jrsecanalystintrouxo
+https://tryhackme.com/room/jrsecanalystintrouxo 
+
+https://buff.ly/3jTkOvG
 
 
 sql-cheat
