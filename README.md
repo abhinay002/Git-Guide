@@ -69,6 +69,8 @@ https://www.academy.attackiq.com/
 
 6.Penetration TesteR--- https://hubs.la/Q01yyN-z0 
 
+7.OSCP Preparation--- http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
+
 
                                         TOOLS
 
