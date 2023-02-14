@@ -71,6 +71,8 @@ https://www.academy.attackiq.com/
 
 7.OSCP Preparation--- http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
 
+8.CEH PRACTICAL----https://lnkd.in/gGJ5f4Hq
+
 
                                         TOOLS
 
