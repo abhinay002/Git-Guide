@@ -73,6 +73,7 @@ https://www.academy.attackiq.com/
 
 8.CEH PRACTICAL----https://lnkd.in/gGJ5f4Hq
 
+9.CEH vlog---https://youtu.be/z2F5gauWuZE
 
                                         TOOLS
 
