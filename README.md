@@ -9,6 +9,8 @@ https://github.com/imrk51/CEH-v11-Study-Guide
 CEH-Practical-Master--
 https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
 
+CEH-Practical-Notes---https://github.com/infovault-Ytube/CEH-Practical-Notes
+
 Ethical-Hacking-Tools--
 https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools 
 
