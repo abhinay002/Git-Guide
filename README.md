@@ -87,6 +87,7 @@ https://www.academy.attackiq.com/
 1.https://github.com/jasonniebauer/Nmap-Cheatsheet 
 2.https://www.stationx.net/nmap-cheat-sheet/
 
+Reverse and Bind Shell-----> https://www.hackingtutorials.org/networking/hacking-with-netcat-part-1-the-basics/
 
 
                                       CTF ROOMS 
