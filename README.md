@@ -88,8 +88,11 @@ https://www.academy.attackiq.com/
 2.https://www.stationx.net/nmap-cheat-sheet/
 
 Reverse and Bind Shell
+
 PART-1--->https://www.hackingtutorials.org/networking/hacking-with-netcat-part-1-the-basics/
+
 PART-2--->https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
+
 PART-3--->https://www.hackingtutorials.org/networking/hacking-with-netcat-part-3-advanced-techniques/
 
                                       CTF ROOMS 
