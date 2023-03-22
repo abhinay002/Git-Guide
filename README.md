@@ -97,6 +97,8 @@ PART-2--->https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind
 
 PART-3--->https://www.hackingtutorials.org/networking/hacking-with-netcat-part-3-advanced-techniques/
 
+METASPLOIT--->https://www.offsec.com/metasploit-unleashed/
+
                                       CTF ROOMS 
 https://tryhackme.com/p/CyberKnight
 
