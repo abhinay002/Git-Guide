@@ -76,6 +76,8 @@ https://www.academy.attackiq.com/
 8.CEH PRACTICAL----https://lnkd.in/gGJ5f4Hq
 
  ..https://medium.com/cyversity/ceh-practical-my-exam-review-68663e7376b4
+ 
+ ..https://lightkun-yagami.medium.com/passed-ec-councils-certified-ethical-hacker-practical-20634b6f0f2
 
 9.CEH vlog---https://youtu.be/z2F5gauWuZE
 
