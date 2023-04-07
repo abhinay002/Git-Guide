@@ -53,9 +53,9 @@ https://www.academy.attackiq.com/
 
 
 
-                         OWASP 10  ---[Open Web Application Security Project]
+                                    IMPORTANT TOPICS
                            
---> https://owasp.org/www-project-top-ten/
+OWASP 10--> https://owasp.org/www-project-top-ten/
 
                                        Blogs
 
